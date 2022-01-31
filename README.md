@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## Output
+<img src="./login page.gif" width="250">
 
 This project is a starting point for a Flutter application.
 
